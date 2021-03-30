@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "auth-7b857",
+  "private_key_id": "578bd938bb8fb1f5fcbb632a5327f5ee6e2e918a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXwDkxVL3Cw+5l\nNo+l9sNStXDLlalXuFEx0KFxCMXlSCh9nJfA2ga4dJAFiurvH+9Qyy3dxRK8cqRl\nlafl2wjJBW15tnPWrlYBMP42nN9KHsEy0JCrHt9acXYJQFe4gVGwdg8NhYPAVd2Z\nNen44tcLsER5HwRyN98LE4932VNWNgGZu5ygAPDu2pQOAF61nfGQmuRCcmiwYANj\n4facStc/5a1zQ2W2Dg0ibwRBUkgQMQEUF2btVVAQDGfa5qHW4DQhU0RTbAY3TFCi\nAEqEhtfbc+Cppps0h5w294PRyYpvb79rgLojkiqcFAXd7RzVtbHCjlPBk/fQofZN\nu5Ikm4eLAgMBAAECggEACaxqHX7tadEAMf3OsCG1svLmBB12z8lHjOTRgTTWiKjg\nVQqxSKgvpFg8JhUo8VjPO3xl8vW6QlEO1lZeyHH9coVXxKMOjjFv+PJTuRZe8Paj\nyQ/BaR3/RKnVyZALUKFgCgOqUyCfJysI8mrBalcQFAYZF1QUkHo+J1u/R9LX5bd4\nJGgv2S7H0709H4uQL77iOhvEJQA9QeQb/ZCS/mzBlss9j+glgkhsDBW6SWbMN4Da\nRCOTedGyJnjrU+6xHIT7hAQGFP51ezatyhlYlwt6n3vAdeF1PuHPpNwaZ3S9rcq+\nC46C0XTpW3KbekYK3uMdDTwBQFzapc7RgfSoFnZewQKBgQDTzdaw9NhyYMIOwAeR\ndhmNSZ+Dm5dIquLfXTLgo47LEra4B0HIgQMgT6945l28gjn7jrkXJa80tmbGWFeV\nlE3KQs/a/rqCQperDMtnI9p7EsnNXKflVc5LtmULQn+43pQdl67x+J02a8v7SQMK\nxkBvhbTuKo+yqK3rrxxQ9t3pmQKBgQC3anXVxRV0NgkzdbUq9SF02VSieCgOawVO\ngK3cbpzh+Z/c0rUxa4ONMwC0D9mfuQD2cD7/BKT8+zJRnzfLdZELuIOz/fYZgrg6\nG16sGU6X2VOOEifxRVe+9AjVjbHrvhKL+g69I8uRYyBdRRciva4F4l+0dTPY3Ueq\nfTCDwzZYwwKBgAOfdLmoJn+mWgtoi3iYfY1mIf1dTvQmQCUz8efXxFyC4G87aIum\ncUg/NLAruJS94YIFCfN0aI/NQurHng/n7oC0LdwAGW6a9v8tA9mqylTqmFsT56dL\nlXDEGOxdYdPmsr/i1VI8P2wr4dxVfmDTzUxbDCI6xiR3MCpk32YfIuKZAoGALRP6\nL/bHJg+dxUr5orwqY9iCJ4gWeCyvWjLgCBwbbKJ4OsKCi8nbxBkz5A09NDc42FiP\n8wdGMXLfVBYolVWot1O68sLI+E4bTxSo+O0jVsiv82vc6zxaq3C4txujDchiMIrd\nkni4sFvHeYTggcZSfdm8IdLoUjVYRruL7+ZLdhcCgYEAkZLpfjkzFyK8pxoKJHCm\nxs9Um7YLPaNfNtizDayf4bKJ5t+akl1Mis7m49tiDwIWq1sPT5WQhQRG3KQm94D8\nGgi2jbtdMqTZuwL34psfGw8mZTDvkJYn1FbMu3HIa9SNnXsuPFMjfOAdkxC6jAOF\npNAoBvaXdJCTZxL+NZ6HKkM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatappphp@auth-7b857.iam.gserviceaccount.com",
+  "client_id": "112890175453698926513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatappphp%40auth-7b857.iam.gserviceaccount.com"
+}
